@@ -10,4 +10,6 @@ Alguns *smart contracts* desenvolvidos para estudo:
 
 * RegistroDocumentos.sol: contrato inteligente que registra o *hash* gerado a partir de um documento, além de atestar o momento de registro.
 
+* TokenERC20.sol: contrato inteligente que implementa um token segundo o padrão ERC20.
+
 
